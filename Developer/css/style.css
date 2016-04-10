@@ -85,7 +85,7 @@ background-color:#fff;
 }
 .about p { line-height: 1.8em; font-size: 15px; color: #282923}
 
-.about, .portfolio, .contact { padding: 50px 0;}
+.about, .portfolio, .contact { padding: 0px 0;}
 
 #about, #portfolio, #contact { margin-top: -85px; padding-top: 85px }  /*  nav-fix 때문에 생기는 공백 상쇄 */
 

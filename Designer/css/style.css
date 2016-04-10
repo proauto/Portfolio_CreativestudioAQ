@@ -1,4 +1,4 @@
-text-align: center;@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
 @font-face{
 font-family:'NanumBarunGothic';
 src:url("../fonts/NanumBarunGothic.eot");
@@ -14,11 +14,11 @@ body {font-family: "NanumBarunGothic",  sans-serif; padding-top: 90px; }
 .navbar-nav li { margin:0 20px; }
 .navbar-brand { padding-left: 20px;} 
 .navbar-collapse { padding-top: 10px; background-color: #fff}
-.navbar-default .navbar-nav>li>a:hover { color: #FF8000} 
+.navbar-default .navbar-nav>li>a:hover { color: #5BC0DE} 
 .navbar-default .navbar-nav>li.active>a,
 .navbar-default .navbar-nav>li.active>a:hover,
 .navbar-default .navbar-nav>li.active>a:focus
- { color: #FF8000; background-color: #fff} 
+ { color: #5BC0DE; background-color: #fff} 
 
 .control { position: inherit; top: 50%; z-index: 5; display: inline-block; right: 50%;} 
 
@@ -85,7 +85,7 @@ background-color:#fff;
 }
 .about p { line-height: 1.8em; font-size: 15px; color: #282923}
 
-.about, .portfolio, .contact { padding: 50px 0;}
+.about, .portfolio, .contact { padding: 0px 0;}
 
 #about, #portfolio, #contact { margin-top: -85px; padding-top: 85px }  /*  nav-fix 때문에 생기는 공백 상쇄 */
 
